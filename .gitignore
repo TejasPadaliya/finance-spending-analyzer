@@ -1,0 +1,31 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Secrets / environment
+.env
+.env.local
+
+# Real bank data — never commit
+data/raw/
+
+# Claude local config
+.claude/settings.local.json
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# SQLite / database files
+*.db
+
+# Trained model artifacts
+models/*.joblib

@@ -1,0 +1,493 @@
+transaction_id,date,description,amount,account,category,pending
+ff1149ad-f05a-40b5-94cc-0fd1540eb82c,2025-05-01,INTERAC E-TFR RENT,-1086.98,CIBC Checking,rent,True
+219ebcd9-db43-4e72-89b0-2cd33de7fd4b,2025-05-01,GOODLIFE FITNESS,-59.51,Amex Cobalt,subscriptions,False
+efdabb7e-6586-4b9c-a75f-7535726dd093,2025-05-01,METRO #1204,-141.21,CIBC Checking,groceries,False
+0bebe21e-49c0-4e2c-910e-bd017d381eb5,2025-05-02,POKE BOX DOWNTOWN,-32.27,Amex Cobalt,dining,True
+7d3e3461-5c67-444d-8c1c-cd9c2916a72e,2025-05-03,BURRITO BOYZ,-40.85,Amex Cobalt,dining,False
+d854dab3-3c76-46b6-8358-6dbc30d2453c,2025-05-03,PIZZA PIZZA #2211,-54.44,Simplii Visa,dining,False
+d92ffe59-ca88-4578-8e6a-68b79fc97895,2025-05-03,TTC PRESTO RELOAD,-6.07,CIBC Checking,transit,False
+beec3328-cae2-422c-8cac-cc4b14a7f1b2,2025-05-05,SPOTIFY CA,-8.28,Amex Cobalt,subscriptions,False
+54fa022d-82ba-4fbd-bd69-3120a9d01f0d,2025-05-05,GO TRANSIT FARE,-18.01,CIBC Checking,transit,False
+4162f3db-797a-4d06-bfa7-c107e4856f56,2025-05-05,TICKETMASTER CA,-41.48,Amex Cobalt,entertainment,False
+e5302328-109d-4ff1-87af-31f2875a721e,2025-05-07,FRESHII KING ST,-30.73,Simplii Visa,dining,False
+9d3d886d-e5ec-4d80-b3d3-5781829e496d,2025-05-07,POKE BOX DOWNTOWN,-51.3,Simplii Visa,dining,False
+081cb24b-f9a4-4cb9-a930-56646a052bbc,2025-05-08,FRESHCO DANFORTH,-107.26,CIBC Checking,groceries,False
+464d6696-861c-4fe8-aba3-835188640563,2025-05-08,SOBEYS EXPRESS,-83.21,Simplii Visa,groceries,False
+285d4ffc-9c39-4481-a680-90bec812e112,2025-05-08,TIM HORTONS #4421,-19.8,Simplii Visa,dining,False
+a887f56e-7e9b-4903-8fab-8261f008ddf5,2025-05-09,TORONTO HYDRO,-154.33,CIBC Checking,utilities,False
+c707fc49-7013-42d2-9eff-964e20f61b57,2025-05-09,OSMOW'S SHAWARMA,-11.32,Amex Cobalt,dining,False
+fd7601a0-ebd8-4432-ab7f-9b33a6641b95,2025-05-09,INDIGO BOOKS,-127.36,Capital One Mastercard,shopping,False
+da43a4c0-c3b2-4655-bd79-e58b6f2f7dbe,2025-05-12,NETFLIX.COM,-18.18,Amex Cobalt,subscriptions,False
+1dc9d44c-cf67-4ab8-b9bc-0e523c83f160,2025-05-12,HARVEYS YONGE,-47.42,Simplii Visa,dining,False
+af8f949d-add9-4153-843b-621c51134472,2025-05-12,HARVEYS YONGE,-58.31,Amex Cobalt,dining,False
+95e667c2-1730-4864-8b82-b1dd8f2ec791,2025-05-12,UBER TRIP 8X9K,-9.34,CIBC Checking,transit,False
+d15ed65d-0628-4123-8d04-b6bb267479a9,2025-05-13,MCDONALD'S BLOOR,-43.52,Simplii Visa,dining,False
+516430a8-4db8-4332-a042-e7d8c44f2e3f,2025-05-13,MCDONALD'S BLOOR,-42.83,Amex Cobalt,dining,False
+642d4e84-71d1-4d8d-add8-e5efb115bf8b,2025-05-13,DOLLARAMA #0447,-57.17,Capital One Mastercard,shopping,False
+310d0a58-40a7-4be7-82bf-91b25eaad3fb,2025-05-15,CIBC PAYROLL DEPOSIT,2658.32,CIBC Checking,income,False
+c6a908cc-73dd-410c-ae5e-e6c384124a58,2025-05-15,BURRITO BOYZ,-17.85,Simplii Visa,dining,False
+c2bcc827-471e-4f9d-82ce-5b6d4e951713,2025-05-18,LOBLAWS STORE 4821,-128.73,Simplii Visa,groceries,False
+a166f325-df93-4533-bd1e-542f59e82994,2025-05-18,STARBUCKS YORKVILLE,-58.48,Simplii Visa,dining,False
+663b942e-d42c-440d-ac3b-752ac0efc2cd,2025-05-18,SUBWAY #8834,-32.42,Amex Cobalt,dining,False
+2bd21d5a-6977-4853-935c-934ea04a6d31,2025-05-19,SOBEYS EXPRESS,-74.5,CIBC Checking,groceries,False
+e62c5912-b703-4401-a34a-f714223a846f,2025-05-19,SUBWAY #8834,-18.12,Amex Cobalt,dining,False
+50ed3f4d-5f4f-46ab-b684-fc9240820458,2025-05-20,AMAZON PRIME CA,-9.52,Amex Cobalt,subscriptions,False
+5380a8ff-eb85-4624-8efd-9379090b82c1,2025-05-20,POKE BOX DOWNTOWN,-27.26,Amex Cobalt,dining,False
+8922bb13-7a99-4287-9da5-2816d83bcab2,2025-05-20,CINEPLEX ODEON,-38.21,Amex Cobalt,entertainment,False
+50947c7f-d338-4190-b029-8cc371a6737a,2025-05-21,HARVEYS YONGE,-46.73,Amex Cobalt,dining,False
+e2868889-0237-4a14-a917-57540fc7d346,2025-05-22,FARM BOY QUEEN ST,-84.05,CIBC Checking,groceries,False
+79db7948-f365-4448-8e9b-f5d35aa04ba9,2025-05-22,MCDONALD'S BLOOR,-24.94,Amex Cobalt,dining,False
+02211dce-9659-4451-8210-9c02a3bb3fcc,2025-05-22,HARVEYS YONGE,-32.74,Amex Cobalt,dining,False
+ffea132c-0bae-4c18-856a-ea91155fbc15,2025-05-23,BURRITO BOYZ,-36.84,Simplii Visa,dining,True
+75c4a772-5929-466e-a30a-da82cd19105e,2025-05-24,UNIQLO TORONTO,-123.64,Amex Cobalt,shopping,False
+da2331f4-18ff-4f71-8cca-c7339eee4e01,2025-05-25,MCDONALD'S BLOOR,-10.28,Amex Cobalt,dining,False
+517cbb59-9e96-4394-a423-70c4198a8d9e,2025-05-26,TIM HORTONS #4421,-19.82,Amex Cobalt,dining,False
+f08f1a98-03a8-4806-9f6a-80ae679eb071,2025-05-26,TIM HORTONS #4421,-26.44,Simplii Visa,dining,False
+7da07d6e-6555-45fc-83a3-3308b268a8c2,2025-05-26,APPLE APP STORE,-36.59,Amex Cobalt,entertainment,False
+5b57bd9e-8b9c-4fea-9a86-ab77efc12077,2025-05-27,POKE BOX DOWNTOWN,-48.48,Simplii Visa,dining,False
+646143ca-dd44-48da-98dd-cbeb81c0dbd5,2025-05-28,SUBWAY #8834,-16.02,Amex Cobalt,dining,False
+e78678d2-7c04-40c7-9cde-28ea23d01ae1,2025-05-28,TTC PRESTO RELOAD,-7.4,CIBC Checking,transit,False
+8ff38bde-c152-46d9-9cff-c330dc172ccf,2025-05-29,GO TRANSIT FARE,-11.52,CIBC Checking,transit,False
+c113f1aa-d854-47db-bfbb-56476335ef75,2025-05-30,POKE BOX DOWNTOWN,-14.76,Amex Cobalt,dining,False
+fcd6e5e1-0e53-493f-b91f-1bc7ea298053,2025-05-31,CIBC PAYROLL DEPOSIT,929.3,CIBC Checking,income,True
+2d0514e1-0222-4e5a-a8d7-5f7049d68154,2025-05-31,HARVEYS YONGE,-51.04,Amex Cobalt,dining,False
+f4c09f93-384b-4e5d-b14c-7ea3d77d936b,2025-06-01,INTERAC E-TFR RENT,-1086.98,CIBC Checking,rent,True
+94e94036-65eb-48da-92e0-f21fc3b13c9e,2025-06-01,GOODLIFE FITNESS,-59.51,Amex Cobalt,subscriptions,False
+de9eaebd-cbb8-4f60-a09d-57ae3f2fcce5,2025-06-01,STARBUCKS YORKVILLE,-30.71,Simplii Visa,dining,False
+d29663f8-e20e-401b-a58b-5fcc7a0db4a9,2025-06-02,SUBWAY #8834,-29.24,Amex Cobalt,dining,False
+700640ab-e161-4502-9ba8-2d5f27a4e5a5,2025-06-02,BURRITO BOYZ,-26.81,Simplii Visa,dining,False
+4761622b-8a14-4dc7-839f-730961993354,2025-06-03,CHIPOTLE TORONTO,-52.38,Amex Cobalt,dining,False
+becac621-5954-456f-8221-b5c355b1e6d2,2025-06-03,HARVEYS YONGE,-50.33,Amex Cobalt,dining,False
+af532e01-a4ca-49e5-91cc-d699ef4abdb6,2025-06-03,POKE BOX DOWNTOWN,-12.68,Amex Cobalt,dining,False
+ddd8d9bc-a76d-4a32-9a4e-03379ced79e6,2025-06-04,NO FRILLS 0392,-86.53,Simplii Visa,groceries,False
+8a4ec5ae-1e7d-4938-908f-fe86d4e35bc7,2025-06-04,SUBWAY #8834,-29.13,Amex Cobalt,dining,False
+a10edfc6-14ce-4f41-933f-5f72015cc354,2025-06-05,SPOTIFY CA,-8.28,Amex Cobalt,subscriptions,False
+f76030ce-36e0-4cb5-8e5d-9dd2be37cdda,2025-06-05,HARVEYS YONGE,-37.08,Amex Cobalt,dining,False
+789c1f26-dfd1-41aa-a492-49e65858261b,2025-06-05,POKE BOX DOWNTOWN,-11.03,Simplii Visa,dining,False
+020c12b7-f370-43b7-bdb2-5d9cef97a56a,2025-06-05,BURRITO BOYZ,-58.02,Amex Cobalt,dining,False
+24d6ed81-1867-4817-87ab-61fa2b98a34d,2025-06-06,SOBEYS EXPRESS,-97.83,CIBC Checking,groceries,False
+6c3762e9-254c-4f50-beb6-8e0621d99043,2025-06-06,GO TRANSIT FARE,-12.89,CIBC Checking,transit,False
+8821d2d6-f791-4117-afe0-944d048ef428,2025-06-07,PIZZA PIZZA #2211,-42.42,Amex Cobalt,dining,False
+5b4dc237-6847-430a-b9a9-fdbd087f3790,2025-06-07,STARBUCKS YORKVILLE,-31.2,Amex Cobalt,dining,False
+594c6e18-e358-45ee-9438-328729ed1ef3,2025-06-07,SUBWAY #8834,-14.14,Simplii Visa,dining,False
+7015a949-2046-43ca-b466-d7653316cca9,2025-06-08,STARBUCKS YORKVILLE,-45.56,Amex Cobalt,dining,False
+4798ba29-69cb-46d2-8b7c-ec74bbee0086,2025-06-08,CHIPOTLE TORONTO,-44.21,Simplii Visa,dining,False
+22162e63-de9c-4b76-a9ac-a940d4d22f18,2025-06-09,CHIPOTLE TORONTO,-55.25,Amex Cobalt,dining,False
+a84b6418-22f4-4c56-9322-0a9737cdeb8e,2025-06-12,NETFLIX.COM,-18.18,Amex Cobalt,subscriptions,False
+1c6e9ad6-c6a3-4f2b-a669-3e9785d368ba,2025-06-14,BURRITO BOYZ,-23.68,Simplii Visa,dining,False
+20eb2d7b-7cd0-4c28-aea4-d187210dedc6,2025-06-15,CIBC PAYROLL DEPOSIT,2658.32,CIBC Checking,income,False
+08ab3f63-8ed8-4e3f-8bb5-b1ce32d4624d,2025-06-15,PIZZA PIZZA #2211,-42.54,Simplii Visa,dining,False
+9a18db4c-e25d-45a6-8a07-85a7300a1596,2025-06-16,GO TRANSIT FARE,-8.99,CIBC Checking,transit,False
+21cced47-eed1-4972-a563-f095b0d08c25,2025-06-17,NO FRILLS 0392,-98.25,CIBC Checking,groceries,False
+4b6d7372-43a5-4e4d-b8b6-4b1a413538e6,2025-06-17,STARBUCKS YORKVILLE,-41.01,Simplii Visa,dining,False
+0bf59596-5b19-44c2-836f-7da18f0aaabc,2025-06-17,FRESHII KING ST,-23.27,Simplii Visa,dining,False
+5142efa6-0133-4ba2-af22-02cda77505f8,2025-06-17,SUBWAY #8834,-16.39,Simplii Visa,dining,False
+6900fd34-255f-4b95-869a-d79258d4c63d,2025-06-18,PIZZA PIZZA #2211,-23.81,Amex Cobalt,dining,False
+a66f4409-add8-432a-a445-e9fee51e10f8,2025-06-18,OSMOW'S SHAWARMA,-22.63,Simplii Visa,dining,False
+0fd15d29-0b38-4bfa-bccb-67cc99715092,2025-06-18,OSMOW'S SHAWARMA,-15.92,Simplii Visa,dining,False
+e78d3ce6-b749-44f4-ac0e-09deae4547b9,2025-06-19,PIZZA PIZZA #2211,-16.68,Amex Cobalt,dining,False
+e7e5b8e4-b46b-42a3-bdb7-5103fdc2b7d4,2025-06-19,SUBWAY #8834,-9.18,Amex Cobalt,dining,False
+9b72a1b8-e2cb-46a4-8cad-d4532bab695e,2025-06-20,AMAZON PRIME CA,-9.52,Amex Cobalt,subscriptions,False
+b2098a26-a7fa-4cc6-9d99-b81ba13e14d8,2025-06-20,HARVEYS YONGE,-9.6,Simplii Visa,dining,False
+6f024caa-240c-4c5c-a139-06df52499879,2025-06-21,AMAZON.CA,-120.13,Capital One Mastercard,shopping,False
+74d95c6d-0605-4fd3-badf-59044411e266,2025-06-22,FARM BOY QUEEN ST,-46.78,CIBC Checking,groceries,False
+9d56ef8b-a4f5-46d7-a44a-bef1ed329c99,2025-06-22,FRESHCO DANFORTH,-43.74,Simplii Visa,groceries,False
+4b529c03-a505-4dee-9137-ce6282724c08,2025-06-22,POKE BOX DOWNTOWN,-48.76,Simplii Visa,dining,False
+a840b2c2-d192-4fe4-bace-c7a009e516b6,2025-06-22,CHIPOTLE TORONTO,-34.05,Amex Cobalt,dining,False
+3104289f-6475-4411-a7dc-d8f7ffae9dc5,2025-06-22,BURRITO BOYZ,-27.81,Simplii Visa,dining,False
+ab697d1d-5d9f-4883-b9fc-61da414f8314,2025-06-23,MCDONALD'S BLOOR,-36.97,Simplii Visa,dining,False
+1079515c-e974-43c5-984d-c2f9c6641719,2025-06-24,BELL CANADA INTERNET,-153.69,CIBC Checking,utilities,False
+d67736d5-9abd-4c02-a2b6-7af0ee0233c4,2025-06-24,MCDONALD'S BLOOR,-47.78,Amex Cobalt,dining,False
+129a6afa-eeec-4908-a8ca-37a9fe2f2033,2025-06-25,FARM BOY QUEEN ST,-110.21,Simplii Visa,groceries,True
+5659d79b-2081-4ded-ab5d-c071813a5af7,2025-06-25,PIZZA PIZZA #2211,-20.16,Amex Cobalt,dining,False
+3796cacd-db21-4333-aa9a-53cc2f79bf46,2025-06-26,STARBUCKS YORKVILLE,-12.56,Amex Cobalt,dining,False
+f9e66376-14f4-4edf-8fc0-9a4020ec1abf,2025-06-26,BEST BUY #0921,-145.84,Capital One Mastercard,shopping,False
+0bf31bb0-19ab-4d30-b38e-d296a006e6e9,2025-06-27,POKE BOX DOWNTOWN,-36.79,Amex Cobalt,dining,False
+c4c89e1e-8f33-436c-8ce2-b5a4d03aae85,2025-06-28,HARVEYS YONGE,-32.02,Amex Cobalt,dining,False
+7f4901d5-cca1-4cf1-a643-5e86bd9df8c5,2025-06-28,TIM HORTONS #4421,-40.77,Amex Cobalt,dining,False
+501ba6d8-3450-4bcb-9932-2c11977803c2,2025-06-28,STARBUCKS YORKVILLE,-44.38,Simplii Visa,dining,False
+12c25613-301b-40ec-8614-141f75defcb4,2025-06-29,MCDONALD'S BLOOR,-19.16,Amex Cobalt,dining,False
+ffb620f8-2ff8-47d8-a650-86392e6a373a,2025-06-30,CIBC PAYROLL DEPOSIT,929.3,CIBC Checking,income,False
+abac91f8-59c0-4e8e-8661-c7a20603ecdc,2025-06-30,UBER TRIP 8X9K,-18.77,CIBC Checking,transit,False
+5745e110-a096-4616-b3b2-feb6780c1246,2025-07-01,INTERAC E-TFR RENT,-1086.98,CIBC Checking,rent,False
+c525be29-2fe4-4395-9908-55894a283b48,2025-07-01,GOODLIFE FITNESS,-59.51,Amex Cobalt,subscriptions,False
+80f80863-5271-4db7-b1d3-6ec9012d1f87,2025-07-02,FRESHII KING ST,-45.41,Simplii Visa,dining,False
+c5579dc8-cd33-407d-b539-66ff9401da1e,2025-07-02,PIZZA PIZZA #2211,-40.62,Amex Cobalt,dining,False
+2a3db136-1527-4789-beaf-0b2dbe9138a4,2025-07-03,UBER TRIP 8X9K,-10.63,CIBC Checking,transit,False
+839e86e8-02a4-4a50-8ece-cade538d8f11,2025-07-05,SPOTIFY CA,-8.28,Amex Cobalt,subscriptions,False
+da13e371-801c-4e8e-917b-6e24428c17b7,2025-07-05,LOBLAWS STORE 4821,-51.21,Simplii Visa,groceries,False
+09c70efd-3df8-479c-a93a-232bb524fc2a,2025-07-05,STEAM GAMES,-48.34,Amex Cobalt,entertainment,False
+116022d7-2e8c-4118-937e-965c766cbade,2025-07-06,SOBEYS EXPRESS,-54.28,CIBC Checking,groceries,False
+0b06d473-850e-48a5-a466-5e3aff1dda73,2025-07-07,TIM HORTONS #4421,-52.54,Amex Cobalt,dining,False
+5aa875b1-624c-4c1a-9ac9-bb2cdc614aeb,2025-07-09,WINNERS YONGE,-94.33,Capital One Mastercard,shopping,False
+bd86d0cb-e278-4ca6-a591-edd0421a7a1a,2025-07-10,SOBEYS EXPRESS,-99.51,Simplii Visa,groceries,False
+4e0856e7-e17c-4784-9c4b-88db4912b278,2025-07-11,BEST BUY #0921,-139.89,Capital One Mastercard,shopping,False
+b71d80aa-ff90-48cf-8d89-876b6b6a6077,2025-07-12,NETFLIX.COM,-18.18,Amex Cobalt,subscriptions,False
+bad64c29-ee0d-49a8-b6b5-7e6dfd3b97b0,2025-07-13,NO FRILLS 0392,-66.71,Simplii Visa,groceries,False
+1ad2652f-5c76-4e8f-94ac-802265a2df28,2025-07-13,STARBUCKS YORKVILLE,-12.39,Amex Cobalt,dining,False
+7c4c5921-f70d-448d-9609-62fd991509d7,2025-07-15,CIBC PAYROLL DEPOSIT,2658.32,CIBC Checking,income,False
+6a4a5a65-f3cf-49b0-86b7-c7691d802d74,2025-07-15,TTC PRESTO RELOAD,-15.78,CIBC Checking,transit,False
+2a588d68-4111-4b86-acd0-3c61f5a0ffef,2025-07-17,TORONTO HYDRO,-168.31,CIBC Checking,utilities,False
+b4e05e0e-8754-4c7d-991d-3313b2675cb7,2025-07-17,PIZZA PIZZA #2211,-30.47,Amex Cobalt,dining,False
+74955c9a-bbf6-4b61-9263-e25d0b89a037,2025-07-17,STEAM GAMES,-10.91,Amex Cobalt,entertainment,False
+e27c2233-1b48-4faa-bdd1-cff3b533b38a,2025-07-19,FRESHII KING ST,-29.62,Amex Cobalt,dining,False
+7ebbd033-a41f-4e38-882f-fd5d863f2fc8,2025-07-20,AMAZON PRIME CA,-9.52,Amex Cobalt,subscriptions,False
+0e1e5bec-e029-47cf-a2d4-3271f9c56e39,2025-07-20,STARBUCKS YORKVILLE,-41.79,Amex Cobalt,dining,False
+1eef4bb8-8e5b-496b-8861-354aa7a1bf3c,2025-07-20,STARBUCKS YORKVILLE,-10.16,Simplii Visa,dining,False
+998986a5-68b7-46f3-b793-3df154f1422c,2025-07-22,FRESHII KING ST,-33.69,Simplii Visa,dining,False
+fbff8d60-245f-4aab-bf54-ce583d269a72,2025-07-22,HARVEYS YONGE,-15.52,Amex Cobalt,dining,False
+0605d2e0-0264-4daa-a966-8a1c704d9f2b,2025-07-22,UNIQLO TORONTO,-38.03,Amex Cobalt,shopping,True
+601fb88f-0316-4c00-857b-f36c3bd88328,2025-07-24,HARVEYS YONGE,-47.44,Amex Cobalt,dining,False
+c70fe751-65f6-4ac0-97a1-760b38214e5a,2025-07-28,OSMOW'S SHAWARMA,-38.37,Amex Cobalt,dining,False
+c3099494-d1b4-4eff-8738-56853376172e,2025-07-29,SHOPPERS DRUG MART,-43.76,Simplii Visa,health,True
+8056ece6-ee56-4a13-b5e9-e6582b4bf52a,2025-07-30,MCDONALD'S BLOOR,-25.15,Amex Cobalt,dining,False
+05919cb7-f87f-4e10-a196-a329285e7781,2025-07-31,CIBC PAYROLL DEPOSIT,929.3,CIBC Checking,income,False
+3a32ca6d-842f-41e6-9f52-b84b9a6be4e6,2025-08-01,INTERAC E-TFR RENT,-1086.98,CIBC Checking,rent,False
+8d954d36-8fc4-4eb8-9812-b65527ab7e93,2025-08-01,GOODLIFE FITNESS,-59.51,Amex Cobalt,subscriptions,False
+b26451b3-5ba4-475d-a9bd-2e8b5a6882e9,2025-08-01,REXALL PHARMACY,-76.7,Simplii Visa,health,False
+eed1dcd2-c81f-48aa-b57b-29eab8be1aa9,2025-08-02,TIM HORTONS #4421,-15.29,Simplii Visa,dining,False
+06dd1ab6-abb2-4899-903f-0dc58263f1e0,2025-08-03,OSMOW'S SHAWARMA,-22.62,Amex Cobalt,dining,False
+4bcd9959-23f6-49d5-bc23-52d9874f4652,2025-08-04,STARBUCKS YORKVILLE,-21.88,Amex Cobalt,dining,False
+df711e52-1d36-425a-9eab-c9c0fb630611,2025-08-05,SPOTIFY CA,-8.28,Amex Cobalt,subscriptions,False
+467e319b-7bdd-4c8a-9597-1092e847cbfa,2025-08-06,CHIPOTLE TORONTO,-13.65,Simplii Visa,dining,False
+423a47af-6987-4962-b202-4fed3ad3d4a6,2025-08-09,MCDONALD'S BLOOR,-25.24,Amex Cobalt,dining,False
+0653201c-d599-4e46-81a3-7ad4dc8541c0,2025-08-10,HARVEYS YONGE,-47.97,Amex Cobalt,dining,False
+59f65ec5-5e3c-48a9-988a-6a278842a534,2025-08-12,NETFLIX.COM,-18.18,Amex Cobalt,subscriptions,False
+b1d28f6f-44de-4898-8918-6a381a39a537,2025-08-12,NO FRILLS 0392,-39.93,CIBC Checking,groceries,False
+9494b933-0517-4907-95ef-c4892d063971,2025-08-12,PIZZA PIZZA #2211,-19.97,Simplii Visa,dining,False
+ed368c74-7f20-404f-8b4a-40b881f71ccd,2025-08-14,OSMOW'S SHAWARMA,-45.8,Amex Cobalt,dining,False
+60426e5d-d622-492f-84a9-fc8d11ee998d,2025-08-15,CIBC PAYROLL DEPOSIT,2658.32,CIBC Checking,income,False
+e2a1f758-4844-47f2-87f8-d72c8037757f,2025-08-15,FRESHCO DANFORTH,-88.4,Simplii Visa,groceries,False
+1b951b24-81fd-4fdd-828b-60909129e83d,2025-08-17,CHIPOTLE TORONTO,-9.12,Simplii Visa,dining,False
+51a231a7-74b0-4f63-9932-cd2c066644cd,2025-08-18,TIM HORTONS #4421,-42.96,Amex Cobalt,dining,False
+33925c18-2e59-4b24-9cec-4b2fcaaf1aaa,2025-08-20,AMAZON PRIME CA,-9.52,Amex Cobalt,subscriptions,False
+e7814a1f-81f8-4149-adfd-55321edf4f92,2025-08-20,FARM BOY QUEEN ST,-88.88,CIBC Checking,groceries,False
+0053a5bf-c1d0-4b04-8ef6-c758b005d3a3,2025-08-20,INDIGO BOOKS,-89.91,Capital One Mastercard,shopping,False
+cfcb84df-500b-4495-8ffe-64cd89c2f37c,2025-08-21,BURRITO BOYZ,-54.6,Simplii Visa,dining,False
+e2cee138-44b5-409e-ad21-ce615be142f4,2025-08-22,FRESHCO DANFORTH,-142.54,Simplii Visa,groceries,False
+131d88ff-2ca7-46c7-a351-0489f0bac20c,2025-08-22,POKE BOX DOWNTOWN,-30.82,Simplii Visa,dining,False
+335e5148-7807-4de7-9466-6b0de7ac91fc,2025-08-22,SUBWAY #8834,-55.63,Amex Cobalt,dining,False
+9b75faff-5d96-4413-aab8-acbf57356b94,2025-08-23,HARVEYS YONGE,-35.07,Amex Cobalt,dining,False
+ee28cf91-35bc-403d-a176-a8ca1c9e387a,2025-08-24,SDM PHARMACY #0821,-30.36,Simplii Visa,health,False
+155e3e79-686f-4faa-b63f-674b7144e437,2025-08-25,OSMOW'S SHAWARMA,-36.81,Simplii Visa,dining,False
+aeb4cf21-5828-4726-b02e-8b566e9c3a10,2025-08-26,UBER TRIP 8X9K,-21.26,CIBC Checking,transit,False
+cbaf1564-58a1-420f-b86f-6b1830e351f9,2025-08-27,HARVEYS YONGE,-42.29,Amex Cobalt,dining,False
+29dde28e-a5c8-49c9-934b-34e37ecb5a73,2025-08-28,UBER TRIP 8X9K,-11.16,CIBC Checking,transit,False
+a8a70dc7-a9ad-4aa0-9cc1-2ea2af52cd30,2025-08-29,TIM HORTONS #4421,-50.97,Amex Cobalt,dining,False
+49cfbe76-0107-43e2-b58d-5749efbb00c9,2025-08-29,HARVEYS YONGE,-13.6,Amex Cobalt,dining,False
+9519cf00-3b32-4754-a707-81f58bfbcdf6,2025-08-29,APPLE APP STORE,-22.69,Amex Cobalt,entertainment,False
+4698c621-55ff-442e-b282-63ab4539e06d,2025-08-30,FARM BOY QUEEN ST,-98.61,CIBC Checking,groceries,False
+9b3b063b-0579-458a-905a-f15c7135be10,2025-08-31,CIBC PAYROLL DEPOSIT,929.3,CIBC Checking,income,False
+2a5df65a-062f-4137-92eb-df7b7b485a70,2025-08-31,LOBLAWS STORE 4821,-86.82,Simplii Visa,groceries,False
+1f6cd9a3-8ff1-497e-b775-ed77be361c14,2025-09-01,INTERAC E-TFR RENT,-1086.98,CIBC Checking,rent,False
+85a5299b-875f-4b90-baac-ff31f7a33395,2025-09-01,GOODLIFE FITNESS,-59.51,Amex Cobalt,subscriptions,False
+bf4d158f-86c6-44a8-ad0b-89a01b0181f0,2025-09-01,STARBUCKS YORKVILLE,-34.98,Simplii Visa,dining,False
+1737516b-a34f-4a2b-9e36-d916481f8ad0,2025-09-01,PIZZA PIZZA #2211,-21.65,Amex Cobalt,dining,False
+7b367f4b-6af4-41fc-989a-2dde4ac939c7,2025-09-02,STARBUCKS YORKVILLE,-48.14,Simplii Visa,dining,False
+a9e8abdc-37f4-4cb6-a978-8ce81ff5d7a5,2025-09-05,SPOTIFY CA,-8.28,Amex Cobalt,subscriptions,True
+c8ce2eec-08f1-457c-91ed-cda229fe37a0,2025-09-06,FRESHII KING ST,-24.43,Simplii Visa,dining,True
+97d52a23-dd3d-4665-be24-96a1fad32990,2025-09-07,WINNERS YONGE,-133.07,Amex Cobalt,shopping,True
+cecbab41-2391-4f90-86a6-ee6cd2d344ec,2025-09-07,APPLE APP STORE,-30.03,Amex Cobalt,entertainment,False
+4dd4730a-7a07-4f75-adcc-9a018ec552ce,2025-09-08,LOBLAWS STORE 4821,-35.39,Simplii Visa,groceries,False
+efe03373-12c8-4c5e-911e-100e469d54df,2025-09-08,METRO #1204,-149.09,CIBC Checking,groceries,False
+ba4cfd5d-712e-4756-9e32-208b777465dd,2025-09-09,LOBLAWS STORE 4821,-142.33,CIBC Checking,groceries,False
+a43b142f-f07b-45ab-8e22-b37e3a08592b,2025-09-09,TIM HORTONS #4421,-46.83,Simplii Visa,dining,True
+05f352a4-9622-4d65-a68f-7e4ec83ac006,2025-09-10,LYFT TORONTO,-20.1,CIBC Checking,transit,False
+3748d4c1-e465-47de-bff0-d94acb1fcfdd,2025-09-12,NETFLIX.COM,-18.18,Amex Cobalt,subscriptions,False
+ecbdf615-277c-4d86-a28d-a57766bfda33,2025-09-12,NO FRILLS 0392,-82.21,CIBC Checking,groceries,False
+8f019f79-ff45-4681-8855-695267bdd30c,2025-09-12,POKE BOX DOWNTOWN,-54.32,Simplii Visa,dining,False
+eb105761-b5fa-4c6c-be2e-e09e4bb42f96,2025-09-12,HARVEYS YONGE,-42.41,Simplii Visa,dining,False
+0f489feb-a884-4df2-acdf-7d6da57e1480,2025-09-12,BURRITO BOYZ,-56.71,Amex Cobalt,dining,False
+28b5360e-9e87-47b0-8356-83ab0415125a,2025-09-13,METRO #1204,-49.75,Simplii Visa,groceries,False
+7d788b2e-b2ef-4eec-a5a3-47a664a11b4d,2025-09-13,NO FRILLS 0392,-137.0,Simplii Visa,groceries,False
+ce153a37-6904-4f01-b6af-7acb5f353bfc,2025-09-13,FRESHII KING ST,-12.91,Amex Cobalt,dining,False
+1fe9f4c4-2e91-4919-a556-a8037ee10717,2025-09-13,UNIQLO TORONTO,-95.92,Capital One Mastercard,shopping,False
+5295f61a-c0f0-4673-9958-62784caba454,2025-09-13,TTC PRESTO RELOAD,-9.83,CIBC Checking,transit,False
+db07739c-fbe8-4b7c-ad14-f803797a1579,2025-09-14,FARM BOY QUEEN ST,-60.72,CIBC Checking,groceries,False
+e93c3335-72a7-439e-80b4-bb7a1ef4f783,2025-09-15,CIBC PAYROLL DEPOSIT,2658.32,CIBC Checking,income,False
+bc51893a-c4f4-45b3-b7de-869f0258c93a,2025-09-15,PHYSIOPLUS CLINIC,-10.98,Simplii Visa,health,False
+6ea7812d-bc9a-48dc-8db0-276b91a3f905,2025-09-17,UNIQLO TORONTO,-715.56,Capital One Mastercard,shopping,False
+6e664b38-93b7-475e-93b5-533fbc65adda,2025-09-20,AMAZON PRIME CA,-9.52,Amex Cobalt,subscriptions,False
+e7a2aee5-07bb-4c9d-831b-4a49be0a585c,2025-09-20,PIZZA PIZZA #2211,-27.43,Amex Cobalt,dining,False
+a1af6859-4f7e-44a9-9ab8-49b3e14003e5,2025-09-22,PIZZA PIZZA #2211,-54.46,Simplii Visa,dining,False
+01dbbc1d-bab0-4dfb-9a20-47045479a997,2025-09-22,HARVEYS YONGE,-20.53,Simplii Visa,dining,False
+49453185-3617-4f59-8be4-dc01977213f4,2025-09-22,STARBUCKS YORKVILLE,-14.38,Simplii Visa,dining,False
+fb915cb5-59d4-4e3a-b87b-4781b7d8d68b,2025-09-22,WINNERS YONGE,-39.2,Amex Cobalt,shopping,False
+ae012be5-b21b-463b-8bd2-111f16db54fc,2025-09-22,INDIGO BOOKS,-41.52,Amex Cobalt,shopping,False
+601ac890-fa5b-4ef1-af15-6868eb56ae3e,2025-09-26,SDM PHARMACY #0821,-20.07,Simplii Visa,health,False
+dff1a506-8ab4-4b74-8c83-ce3fe99c4660,2025-09-28,STARBUCKS YORKVILLE,-46.93,Simplii Visa,dining,False
+d2192f98-53f2-403f-9461-4d133a9d15ab,2025-09-30,CIBC PAYROLL DEPOSIT,929.3,CIBC Checking,income,False
+28bef81b-90da-4a69-8803-b7eed0e13123,2025-10-01,INTERAC E-TFR RENT,-1086.98,CIBC Checking,rent,False
+d1e01644-432d-4662-a86a-c2bd6fd7fd75,2025-10-01,GOODLIFE FITNESS,-59.51,Amex Cobalt,subscriptions,False
+15df0ec3-30c0-461b-9a85-c6e8ca35b046,2025-10-01,TIM HORTONS #4421,-18.39,Amex Cobalt,dining,False
+7ca00f57-e0fd-40a7-a147-cbbfb6869314,2025-10-02,PIZZA PIZZA #2211,-23.65,Amex Cobalt,dining,False
+d77d76b0-3475-439c-a023-784444e9a504,2025-10-03,LOBLAWS STORE 4821,-113.31,Simplii Visa,groceries,False
+5e810b40-2556-4e86-9b85-c83f86f45862,2025-10-05,SPOTIFY CA,-8.28,Amex Cobalt,subscriptions,False
+062f61db-ebea-40a9-ad05-7fdd315cd38c,2025-10-05,GO TRANSIT FARE,-24.02,CIBC Checking,transit,False
+fb8f13b9-39fe-4290-a74e-526764461d76,2025-10-06,PIZZA PIZZA #2211,-28.67,Simplii Visa,dining,True
+0d0cc0e6-2916-471f-a914-0199d1169c7d,2025-10-08,LOBLAWS STORE 4821,-99.73,CIBC Checking,groceries,False
+0311d9f8-d97a-469e-986b-c845f787aaaf,2025-10-11,BELL CANADA INTERNET,-87.56,CIBC Checking,utilities,False
+ca35f411-2d0e-4cac-b171-9fab37a4756b,2025-10-12,NETFLIX.COM,-18.18,Amex Cobalt,subscriptions,False
+c17ddd4a-36a1-4bef-bb07-e8a1ae4f3206,2025-10-13,SUBWAY #8834,-14.82,Amex Cobalt,dining,False
+2a848d5c-1646-46ef-88b7-065157ccfc8b,2025-10-15,CIBC PAYROLL DEPOSIT,2658.32,CIBC Checking,income,False
+298459a1-be6b-495b-94b8-ba464294cda9,2025-10-15,BURRITO BOYZ,-45.2,Amex Cobalt,dining,False
+71611ac6-ae9e-4b91-b650-595995cebca7,2025-10-16,FRESHII KING ST,-49.81,Amex Cobalt,dining,False
+91787729-64bf-4ab4-8ac6-1241259a7849,2025-10-17,FARM BOY QUEEN ST,-90.76,Simplii Visa,groceries,False
+21b0e630-a41a-43d3-a77b-883def51ae83,2025-10-20,AMAZON PRIME CA,-9.52,Amex Cobalt,subscriptions,False
+b95a5854-710b-4a55-ad69-61951b7fe149,2025-10-20,GO TRANSIT FARE,-3.55,CIBC Checking,transit,False
+c0a89ab6-e683-42a0-8e57-992c63229907,2025-10-21,TIM HORTONS #4421,-14.44,Amex Cobalt,dining,True
+a3f9daa4-785f-4ead-aa46-1bbfc88c9f2a,2025-10-22,METRO #1204,-44.62,Simplii Visa,groceries,False
+cf13edd6-5243-47b9-aab7-b19a446ac67e,2025-10-22,LYFT TORONTO,-9.3,CIBC Checking,transit,False
+8269ad2c-4a0f-451f-adad-e300a4f5764d,2025-10-23,BURRITO BOYZ,-46.43,Simplii Visa,dining,False
+a854fab8-9606-4927-81d2-333b726652cc,2025-10-24,PHYSIOPLUS CLINIC,-19.82,Simplii Visa,health,False
+af828f64-cb2e-40f4-be40-4daa28d84c9b,2025-10-25,BURRITO BOYZ,-56.23,Amex Cobalt,dining,False
+b6e6de23-c56e-4eba-bd2a-cb8becc0f24c,2025-10-26,FARM BOY QUEEN ST,-111.32,CIBC Checking,groceries,False
+481bdecb-2297-4dde-b465-01d9f1f4df6f,2025-10-27,APPLE APP STORE,-35.36,Amex Cobalt,entertainment,False
+37ea3860-a676-4c1a-ae07-cdb6d07c0d64,2025-10-29,TICKETMASTER CA,-14.24,Amex Cobalt,entertainment,True
+643f38d3-cfa4-426c-95c9-0c74a8626d9c,2025-10-30,BEST BUY #0921,-104.49,Amex Cobalt,shopping,False
+0938670b-4aff-4bb7-ba00-6b5f96c6d67b,2025-10-31,CIBC PAYROLL DEPOSIT,929.3,CIBC Checking,income,False
+d94f7564-5e6a-4a8e-bb52-4071cf7710d9,2025-10-31,GO TRANSIT FARE,-23.35,CIBC Checking,transit,False
+f96fe387-f047-4349-aeb4-c2f8cddf8cbd,2025-11-01,INTERAC E-TFR RENT,-1086.98,CIBC Checking,rent,False
+f2238eed-6168-47c7-8235-f3bd59a1f9ff,2025-11-01,GOODLIFE FITNESS,-59.51,Amex Cobalt,subscriptions,False
+db89fdf8-fb86-4950-9f06-0ba65288173b,2025-11-02,UNIQLO TORONTO,-23.99,Amex Cobalt,shopping,False
+5448993a-01f3-4c93-b70e-323b77b8e674,2025-11-03,BURRITO BOYZ,-51.13,Simplii Visa,dining,False
+e3a74c55-ff7a-4136-8c2b-d0bb965cf7c7,2025-11-03,POKE BOX DOWNTOWN,-46.79,Simplii Visa,dining,False
+e9bf4caf-95fb-4833-8d83-39cdb7fff036,2025-11-05,SPOTIFY CA,-8.28,Amex Cobalt,subscriptions,False
+879a69f4-48af-4890-bce8-e6d7f874f454,2025-11-05,OSMOW'S SHAWARMA,-8.93,Amex Cobalt,dining,False
+44e320f6-d684-48a0-aa24-70f4c05fb443,2025-11-05,CHIPOTLE TORONTO,-50.46,Amex Cobalt,dining,False
+71f30152-e5c9-4bd8-a91e-73ece5f4363e,2025-11-08,NO FRILLS 0392,-86.09,Simplii Visa,groceries,False
+b6986788-1f45-46fc-bad2-ea7cc3dbdef5,2025-11-09,WINNERS YONGE,-126.33,Amex Cobalt,shopping,False
+da700362-3c64-40f0-812c-a1cc260f83fa,2025-11-10,BURRITO BOYZ,-29.45,Simplii Visa,dining,False
+76dc0c71-bdd2-4d9e-8b61-5d4b07562467,2025-11-11,PIZZA PIZZA #2211,-48.81,Amex Cobalt,dining,False
+5fca7e1b-ceae-4c9d-a0a7-7a4cc9a10059,2025-11-11,PIZZA PIZZA #2211,-49.43,Simplii Visa,dining,False
+796e3925-153b-4ee6-a713-4fa5066577cf,2025-11-11,H&M QUEEN WEST,-95.25,Amex Cobalt,shopping,False
+95734a5c-e321-4d3d-a11a-44a6db2597e6,2025-11-11,IKEA NORTH YORK,-34.73,Amex Cobalt,shopping,False
+41334a0d-df0b-4264-ba70-85e45ce06415,2025-11-12,ROGERS COMM,-110.29,CIBC Checking,utilities,False
+70fb430a-3411-4f48-bb87-a74e1c36a74d,2025-11-12,NETFLIX.COM,-18.18,Amex Cobalt,subscriptions,False
+b28cafee-75f0-40c1-9304-fed697c0c3b1,2025-11-12,TICKETMASTER CA,-21.39,Amex Cobalt,entertainment,False
+ebac8dc7-3964-4f4b-bf97-5075b5dc29b6,2025-11-13,OSMOW'S SHAWARMA,-13.68,Amex Cobalt,dining,False
+a172922d-4830-4e76-b9f3-87d5e28eb970,2025-11-13,HARVEYS YONGE,-53.11,Simplii Visa,dining,False
+cc6e52db-90c0-48e3-91a6-47039e934aab,2025-11-14,TIM HORTONS #4421,-20.1,Amex Cobalt,dining,False
+cd01d082-b1e9-4215-ae9c-c60ada1655a8,2025-11-14,CHIPOTLE TORONTO,-41.9,Amex Cobalt,dining,False
+27bf164f-9878-4e6b-8ead-c398b1118e53,2025-11-15,CIBC PAYROLL DEPOSIT,2658.32,CIBC Checking,income,False
+48a1fa22-bced-4272-ae38-df60dfbac169,2025-11-15,METRO #1204,-126.52,Simplii Visa,groceries,False
+d08f0585-9d21-4d61-88dd-548814344e66,2025-11-16,TIM HORTONS #4421,-39.36,Simplii Visa,dining,False
+67be9535-cf93-459d-940a-5c6a1fad3074,2025-11-16,SUBWAY #8834,-30.15,Simplii Visa,dining,False
+ef19c365-9ac1-479d-a9d7-5b3d179de63a,2025-11-16,TTC PRESTO RELOAD,-6.17,CIBC Checking,transit,False
+3ec27e31-bdad-40cc-b576-41c7c1350014,2025-11-18,PIZZA PIZZA #2211,-27.46,Amex Cobalt,dining,False
+c48d943e-1d47-4b22-a52c-cbbaa75c4c90,2025-11-20,AMAZON PRIME CA,-9.52,Amex Cobalt,subscriptions,False
+08070986-9cd8-4270-899b-1321a6d310dd,2025-11-21,LOBLAWS STORE 4821,-141.96,Simplii Visa,groceries,False
+67309243-851b-4a0d-b949-ca833eb941e1,2025-11-21,CINEPLEX ODEON,-16.14,Amex Cobalt,entertainment,False
+df189550-6218-4d87-8f92-5da056d83d53,2025-11-24,OSMOW'S SHAWARMA,-31.6,Simplii Visa,dining,False
+335e189b-ee75-4faf-b298-a70209d86c42,2025-11-24,CINEPLEX ODEON,-16.62,Amex Cobalt,entertainment,False
+974c25d2-ac81-428b-8022-04a0199ab148,2025-11-25,FRESHCO DANFORTH,-101.53,Simplii Visa,groceries,False
+38b53925-8f27-4860-bca6-67d346c89061,2025-11-25,SHOPPERS DRUG MART,-18.08,Simplii Visa,health,False
+5a29d3b8-309e-4726-9ab7-9bfd3df1ec29,2025-11-25,SHOPPERS DRUG MART,-11.48,Simplii Visa,health,False
+93870c84-d56e-4927-a892-9ec603101f86,2025-11-27,BURRITO BOYZ,-35.6,Simplii Visa,dining,False
+070e83d4-979a-4a10-88ef-5c8aef240437,2025-11-27,TTC PRESTO RELOAD,-9.83,CIBC Checking,transit,False
+f4030953-5cba-48f4-9e39-b5dc77e52051,2025-11-28,FRESHII KING ST,-53.12,Simplii Visa,dining,False
+3379275f-3bec-4e94-80a5-a617788ffdcb,2025-11-29,FRESHII KING ST,-39.51,Amex Cobalt,dining,False
+56bc7ed4-913c-4440-88f1-5720bcf4ad71,2025-11-30,CIBC PAYROLL DEPOSIT,929.3,CIBC Checking,income,False
+424bcc14-5fa2-47cf-ba55-5b387fe0e095,2025-11-30,OSMOW'S SHAWARMA,-20.89,Amex Cobalt,dining,False
+a60d7502-53c8-4f2a-b4f0-5c4c6aa9e61d,2025-11-30,BURRITO BOYZ,-20.31,Amex Cobalt,dining,False
+a959b3d6-787e-4264-8810-34d933c02040,2025-12-01,INTERAC E-TFR RENT,-1086.98,CIBC Checking,rent,True
+6fa97e35-8675-45c3-9c5e-d1a4d16944f6,2025-12-01,GOODLIFE FITNESS,-59.51,Amex Cobalt,subscriptions,False
+e965456c-2204-4041-aa35-ac40daf1aaf7,2025-12-04,FRESHII KING ST,-53.5,Amex Cobalt,dining,False
+3ae91c7c-dc52-4c28-abcb-75fe10c0ecb5,2025-12-04,MCDONALD'S BLOOR,-20.31,Amex Cobalt,dining,False
+9a9cc590-96a9-4031-9da1-0d9381711411,2025-12-04,GO TRANSIT FARE,-5.24,CIBC Checking,transit,False
+80ea0ea1-6113-419d-ad47-98a62258c5dc,2025-12-05,SPOTIFY CA,-8.28,Amex Cobalt,subscriptions,False
+0a98fe60-7db4-4252-be95-430f0cfcb05c,2025-12-07,METRO #1204,-50.96,CIBC Checking,groceries,False
+9fc5fc34-a541-41e7-8a38-2bdf75179297,2025-12-08,LOBLAWS STORE 4821,-36.41,Simplii Visa,groceries,False
+94dbba78-3dd5-464f-b96a-0f53b15a0f0f,2025-12-12,NETFLIX.COM,-18.18,Amex Cobalt,subscriptions,False
+c5ec1bef-7d58-4b82-b1b8-21a1bf3be509,2025-12-12,PIZZA PIZZA #2211,-37.7,Simplii Visa,dining,True
+e172683e-336d-46e8-a8c7-b79cafbafa6e,2025-12-13,SUBWAY #8834,-10.26,Amex Cobalt,dining,False
+16e7438e-9500-4e43-ad27-c3d97dbbef50,2025-12-15,CIBC PAYROLL DEPOSIT,2658.32,CIBC Checking,income,True
+4354cf2d-2711-43e3-b9b5-a1af377acc62,2025-12-15,FARM BOY QUEEN ST,-111.69,Simplii Visa,groceries,False
+a90a61ca-2937-4b0e-af63-872abc903ee5,2025-12-17,IKEA NORTH YORK,-65.44,Capital One Mastercard,shopping,False
+4c13049c-2c19-47af-a563-132cbfaf2c59,2025-12-19,POKE BOX DOWNTOWN,-17.44,Amex Cobalt,dining,False
+59b4d481-1a28-4f2a-afba-fc155a9d74a9,2025-12-20,AMAZON PRIME CA,-9.52,Amex Cobalt,subscriptions,False
+94376b35-ec95-4cee-8201-1cc3a2fab9a8,2025-12-20,FRESHCO DANFORTH,-68.16,CIBC Checking,groceries,False
+9880104b-e7f2-4992-8882-08e37eace92a,2025-12-22,METRO #1204,-100.94,CIBC Checking,groceries,False
+7a02a110-d6bf-462f-a2f3-bf95b2c7e1b3,2025-12-22,HARVEYS YONGE,-29.65,Amex Cobalt,dining,False
+ee95a889-94ad-4a52-908f-1c30c1bd1a3c,2025-12-25,NO FRILLS 0392,-77.24,CIBC Checking,groceries,False
+bb560103-37ce-4950-b57b-a90a76b67d6a,2025-12-25,LOBLAWS STORE 4821,-90.54,Simplii Visa,groceries,False
+45ebc527-623b-4a4d-95f6-be3ff20956b7,2025-12-26,FRESHII KING ST,-20.97,Amex Cobalt,dining,False
+d593d7f5-b42c-478a-9946-8f7d0dd44711,2025-12-28,WINNERS YONGE,-85.71,Amex Cobalt,shopping,False
+ee6746c4-56fd-4ba9-93c1-f38731d860d6,2025-12-30,MCDONALD'S BLOOR,-52.26,Simplii Visa,dining,False
+12bc2f6f-95c3-4c61-9cc0-f1ff1a3f17f8,2025-12-31,CIBC PAYROLL DEPOSIT,929.3,CIBC Checking,income,False
+bc0ffc6e-8760-4be3-be94-51b627c32d9b,2025-12-31,LYFT TORONTO,-21.34,CIBC Checking,transit,False
+9590e2fa-8d8e-41b1-8947-677df1c66601,2026-01-01,INTERAC E-TFR RENT,-1086.98,CIBC Checking,rent,False
+ebdd68b2-46bb-4cc4-9307-2d19928ffd36,2026-01-01,GOODLIFE FITNESS,-59.51,Amex Cobalt,subscriptions,False
+afcbc3e2-81a1-4596-87ba-85a2fcba5bbb,2026-01-03,SUBWAY #8834,-28.02,Simplii Visa,dining,True
+b2aba3a1-a7dd-4b3d-93eb-d22911848ba5,2026-01-05,SPOTIFY CA,-8.28,Amex Cobalt,subscriptions,False
+6fabf08e-e462-485f-885b-3ab56769f166,2026-01-09,SOBEYS EXPRESS,-123.54,CIBC Checking,groceries,False
+2d9450e4-b570-4ce1-a3a3-091d217d6db4,2026-01-09,FRESHII KING ST,-52.59,Simplii Visa,dining,False
+cd7e1614-a3d7-4405-bf49-3d70606f9246,2026-01-09,SDM PHARMACY #0821,-30.78,Simplii Visa,health,False
+92af0f0b-c561-47e9-9e44-3c1eb54ec3f0,2026-01-09,REXALL PHARMACY,-76.42,Simplii Visa,health,False
+eb6183bb-05c3-460d-8fb8-630b33b1ea50,2026-01-10,H&M QUEEN WEST,-71.28,Amex Cobalt,shopping,False
+8901ea9b-8260-485f-afa2-180413fe5219,2026-01-11,LOBLAWS STORE 4821,-126.24,CIBC Checking,groceries,False
+e8eeb061-6686-4f67-be8a-239f974837ee,2026-01-11,METRO #1204,-123.48,Simplii Visa,groceries,False
+e39f45bf-9590-40dc-b8a8-116696a26c0d,2026-01-12,NETFLIX.COM,-18.18,Amex Cobalt,subscriptions,False
+1feb9fa6-477c-4c1b-a504-dddd89473340,2026-01-12,GO TRANSIT FARE,-11.35,CIBC Checking,transit,False
+442297ea-095e-46f6-96ca-792ea679bf2f,2026-01-14,LOBLAWS STORE 4821,-131.23,Simplii Visa,groceries,False
+c91a8b64-779f-45cb-9d83-26c57ab3303a,2026-01-14,LYFT TORONTO,-10.2,CIBC Checking,transit,False
+6f165a6c-2c52-4bc3-b1e9-b048eb179886,2026-01-15,CIBC PAYROLL DEPOSIT,2658.32,CIBC Checking,income,False
+34228cc0-2dea-4d3f-8e10-f39315462622,2026-01-15,SOBEYS EXPRESS,-147.55,Simplii Visa,groceries,False
+bf51808c-95e4-4dc9-8fe5-a02eba5d9a3c,2026-01-15,TIM HORTONS #4421,-15.27,Amex Cobalt,dining,False
+d645d084-4b78-4197-95a6-a5b9bb3c8323,2026-01-16,SUBWAY #8834,-35.88,Simplii Visa,dining,False
+3fa406ca-fe09-4edb-b4ca-834bb9b50d2f,2026-01-16,PIZZA PIZZA #2211,-41.26,Amex Cobalt,dining,False
+1bbe4a34-1f87-4f6a-aa6c-b2e8e7562194,2026-01-16,LYFT TORONTO,-11.06,CIBC Checking,transit,False
+ed856bd1-3c9b-43e1-b18b-4c6261acd1f7,2026-01-18,TIM HORTONS #4421,-32.07,Amex Cobalt,dining,False
+f10e6478-59da-4210-81bc-5edeb6da4e7b,2026-01-19,ENBRIDGE GAS,-170.98,CIBC Checking,utilities,False
+6414e84b-72c7-4a1e-b7b9-26cb22dfd934,2026-01-20,AMAZON PRIME CA,-9.52,Amex Cobalt,subscriptions,False
+971f503c-5a8b-4a2f-9675-73d6217b7715,2026-01-20,FRESHCO DANFORTH,-138.32,Simplii Visa,groceries,False
+1109e356-c5e3-431e-8b22-9fbd7d276b03,2026-01-22,LYFT TORONTO,-11.09,CIBC Checking,transit,True
+859f224a-b492-4b14-8158-c6421822ac63,2026-01-23,CHIPOTLE TORONTO,-21.86,Simplii Visa,dining,False
+59a72fa7-00de-4527-b3b0-5c0a642475a7,2026-01-23,H&M QUEEN WEST,-46.4,Amex Cobalt,shopping,False
+0feac9b9-0bd1-440f-bd9a-86c8c0147100,2026-01-25,SOBEYS EXPRESS,-107.1,Simplii Visa,groceries,False
+0c31395f-7112-405e-9bf3-89744fbc69a7,2026-01-26,MCDONALD'S BLOOR,-34.74,Simplii Visa,dining,False
+7b92260a-8ef5-4f30-bee5-c172637dd8d5,2026-01-28,HARVEYS YONGE,-15.0,Amex Cobalt,dining,False
+7b1fbf49-d6ce-417c-8902-6475b99b9c34,2026-01-31,CIBC PAYROLL DEPOSIT,929.3,CIBC Checking,income,False
+0a15e2ae-1f1a-49e8-aa83-3e390f65036a,2026-02-01,INTERAC E-TFR RENT,-1086.98,CIBC Checking,rent,False
+bd940df7-9011-4a82-a555-342feff7778b,2026-02-01,GOODLIFE FITNESS,-59.51,Amex Cobalt,subscriptions,False
+86676fc2-3b2c-4e16-85e2-964324fc0494,2026-02-03,SUBWAY #8834,-12.39,Amex Cobalt,dining,False
+7af54f9c-3369-48ad-af14-4e1d32e5fc14,2026-02-04,FARM BOY QUEEN ST,-69.4,CIBC Checking,groceries,False
+ff0f1225-4b81-4e75-b80c-c8c1970e75d8,2026-02-04,LOBLAWS STORE 4821,-108.31,Simplii Visa,groceries,False
+9e8bf7c5-ee7c-4ce7-b70a-d4a8c04d7772,2026-02-05,SPOTIFY CA,-8.28,Amex Cobalt,subscriptions,False
+aea07f9f-aae8-40fc-9b32-5143c3a44d7f,2026-02-05,OSMOW'S SHAWARMA,-45.74,Simplii Visa,dining,False
+c4abf2cf-e2cf-45c5-a976-352a3cccdeab,2026-02-06,UBER TRIP 8X9K,-15.98,CIBC Checking,transit,False
+0b250e0b-e08d-4e17-b838-ea7a96dec604,2026-02-06,TTC PRESTO RELOAD,-5.09,CIBC Checking,transit,False
+57bb08e8-4cf0-4f73-9eb0-8ca7bbc554c5,2026-02-06,TTC PRESTO RELOAD,-16.56,CIBC Checking,transit,False
+def3022e-5662-410d-8c0e-105a3ec89c79,2026-02-07,LOBLAWS STORE 4821,-94.25,Simplii Visa,groceries,False
+9b08d83f-35bc-48a3-8c75-5c2cf927f0e7,2026-02-08,NO FRILLS 0392,-126.53,CIBC Checking,groceries,False
+44281563-f2a6-43c0-b493-e6b92ae90cfd,2026-02-09,FARM BOY QUEEN ST,-131.83,Simplii Visa,groceries,False
+47c6621b-35e1-491a-a3cf-8442d3a1c472,2026-02-09,METRO #1204,-105.95,CIBC Checking,groceries,False
+86ce8c22-c923-4fa7-a0a5-5385dcf88e86,2026-02-09,CHIPOTLE TORONTO,-14.87,Amex Cobalt,dining,False
+1d84c5a5-2485-42cd-ba9a-d98860b02541,2026-02-10,METRO #1204,-93.93,CIBC Checking,groceries,False
+c4027148-84f1-495c-9876-7c957300f034,2026-02-10,FRESHII KING ST,-38.87,Amex Cobalt,dining,False
+d2ad10c8-6cb8-4ae0-b521-4a9024a8de9b,2026-02-11,ROGERS COMM,-169.96,CIBC Checking,utilities,False
+e2fc2be7-01a6-494d-87e0-40bd5a54e3f8,2026-02-11,OSMOW'S SHAWARMA,-52.76,Amex Cobalt,dining,False
+978ec9f5-ecb2-40bc-bf32-b484835a9d40,2026-02-12,NETFLIX.COM,-18.18,Amex Cobalt,subscriptions,False
+724ba38f-9e7f-427e-9eb6-ae45f4c2e78c,2026-02-14,GO TRANSIT FARE,-6.77,CIBC Checking,transit,False
+c02450d4-d32c-424e-b89a-a8bbeb3b04f7,2026-02-15,CIBC PAYROLL DEPOSIT,2658.32,CIBC Checking,income,True
+71a3db63-9360-4399-91ea-47a40219839d,2026-02-15,CHIPOTLE TORONTO,-57.86,Simplii Visa,dining,False
+9213b895-54f1-4273-a8f5-b197517aa7de,2026-02-16,CHIPOTLE TORONTO,-44.13,Simplii Visa,dining,False
+6f537744-a8a1-477d-a1da-88625d44eae2,2026-02-16,STARBUCKS YORKVILLE,-12.94,Amex Cobalt,dining,False
+1bb71d4b-d31b-49f4-a430-9efa07110609,2026-02-18,NO FRILLS 0392,-64.58,CIBC Checking,groceries,False
+b6232508-dc0d-46ab-93ff-913c8afbd1a0,2026-02-18,BURRITO BOYZ,-56.67,Amex Cobalt,dining,False
+84ee7e11-4324-4eb7-8117-75592225c1c0,2026-02-20,AMAZON PRIME CA,-9.52,Amex Cobalt,subscriptions,False
+29b295d2-709f-4ab8-b021-9315fd7dfab2,2026-02-20,BEST BUY #0921,-122.34,Capital One Mastercard,shopping,False
+d4e9a307-99ff-4674-afa2-bcb611dbc20d,2026-02-21,CHIPOTLE TORONTO,-46.21,Amex Cobalt,dining,False
+98791f92-b417-4f45-9465-be8898bdc54e,2026-02-21,H&M QUEEN WEST,-142.71,Amex Cobalt,shopping,False
+68cf5288-b8e3-4a54-af3e-1f0b1e05b6d6,2026-02-22,TTC PRESTO RELOAD,-8.57,CIBC Checking,transit,True
+b4f5b64c-c5a2-415b-97aa-ca891fd32f41,2026-02-23,PHYSIOPLUS CLINIC,-50.07,Simplii Visa,health,False
+d065a4ec-0dd2-4a92-90b1-31d57ef032cf,2026-02-25,PIZZA PIZZA #2211,-15.15,Simplii Visa,dining,True
+b044ab44-739d-4f43-a72f-f1a5d1f3a74d,2026-02-27,STARBUCKS YORKVILLE,-39.95,Simplii Visa,dining,False
+6645b504-a8e6-4418-857a-b5efaae0483c,2026-02-28,CIBC PAYROLL DEPOSIT,929.3,CIBC Checking,income,False
+b0c5aedb-b844-479a-aa6e-2e5ac1b6fb1a,2026-02-28,TIM HORTONS #4421,-18.53,Simplii Visa,dining,False
+724bd5ab-16c6-44d7-a05f-6571e29b7f86,2026-02-28,FRESHII KING ST,-49.65,Simplii Visa,dining,False
+cd81935f-05b4-4ef2-925d-4cf88e162d16,2026-03-01,INTERAC E-TFR RENT,-1086.98,CIBC Checking,rent,False
+318b9f29-0462-43b6-afcb-a40b94f2bc17,2026-03-01,GOODLIFE FITNESS,-59.51,Amex Cobalt,subscriptions,False
+3a30f878-2d38-48dc-8553-668dabf2269c,2026-03-01,POKE BOX DOWNTOWN,-38.59,Amex Cobalt,dining,False
+1438fb65-5e1f-4c63-81dc-f0475c358c30,2026-03-02,LOBLAWS STORE 4821,-44.05,Simplii Visa,groceries,False
+b1316d8f-83e1-4c55-b144-44738f62169f,2026-03-02,SDM PHARMACY #0821,-64.37,Simplii Visa,health,False
+2bbd652e-f751-4f64-a8be-8abb42ca92d7,2026-03-03,FARM BOY QUEEN ST,-125.91,CIBC Checking,groceries,False
+bb39102d-3a3f-4103-9d4b-3625170819d2,2026-03-03,SUBWAY #8834,-47.65,Amex Cobalt,dining,False
+fe793dd9-16ce-4dfc-9938-de8c2d7dd337,2026-03-03,CHIPOTLE TORONTO,-56.68,Simplii Visa,dining,True
+fe5fda82-9a14-4eaf-a5a6-ee7205997960,2026-03-03,SUBWAY #8834,-31.62,Amex Cobalt,dining,False
+c33ffc6b-e2bd-47c3-9307-0ee1e4beadc6,2026-03-05,SPOTIFY CA,-8.28,Amex Cobalt,subscriptions,False
+9683442f-6925-4736-8cc6-b3389e3b68fc,2026-03-07,MCDONALD'S BLOOR,-52.23,Amex Cobalt,dining,False
+fc4a2585-29d1-455f-bc1a-dc355129df94,2026-03-08,CHIPOTLE TORONTO,-31.0,Amex Cobalt,dining,False
+101fd5d8-a8dc-43e2-b425-36b33fac9727,2026-03-08,PHYSIOPLUS CLINIC,-20.01,Simplii Visa,health,False
+08c6c640-5c6f-4842-b261-01eac36ee33e,2026-03-09,HARVEYS YONGE,-32.93,Amex Cobalt,dining,False
+5ec7ddf3-d300-44b6-b4ee-ba6d22e47c32,2026-03-10,POKE BOX DOWNTOWN,-36.76,Simplii Visa,dining,False
+7b127f46-a5f7-4767-bf64-319e55fd3701,2026-03-11,BURRITO BOYZ,-45.94,Simplii Visa,dining,False
+b57b3314-e00e-4673-965b-61b81cae650c,2026-03-12,ROGERS COMM,-115.92,CIBC Checking,utilities,False
+36944781-43b8-42ca-aebb-9b3cdc68b9b8,2026-03-12,NETFLIX.COM,-18.18,Amex Cobalt,subscriptions,False
+a752cfc3-0ce5-400b-8be5-7503bfeeabc8,2026-03-12,LYFT TORONTO,-24.98,CIBC Checking,transit,False
+046087dc-f2ef-4313-beb7-90e8d4df000a,2026-03-13,SUBWAY #8834,-23.7,Amex Cobalt,dining,False
+b4895a32-c04c-4b0d-8dda-52f32590c6e9,2026-03-14,METRO #1204,-101.95,CIBC Checking,groceries,True
+649c41fd-cbe3-4884-9a3f-91e6e5103411,2026-03-14,HARVEYS YONGE,-30.77,Simplii Visa,dining,False
+6f411abd-b088-4b29-8acd-dc16cfa978c2,2026-03-14,TIM HORTONS #4421,-45.32,Amex Cobalt,dining,False
+6aec9e2c-7a94-4a25-8eef-436e7c71734f,2026-03-14,CHIPOTLE TORONTO,-31.84,Simplii Visa,dining,False
+1650234b-4031-4aa1-8c3c-a0fd8e780b4b,2026-03-15,CIBC PAYROLL DEPOSIT,2658.32,CIBC Checking,income,False
+43ac7d87-9fc1-46d5-8479-df2b224679ef,2026-03-15,STARBUCKS YORKVILLE,-42.21,Simplii Visa,dining,False
+ba34e46a-d1e7-479e-823e-30ddf290c2b9,2026-03-15,STARBUCKS YORKVILLE,-42.9,Amex Cobalt,dining,True
+40948c92-1520-4e89-8bf7-5f97d13aa0a7,2026-03-15,STARBUCKS YORKVILLE,-48.58,Simplii Visa,dining,False
+1b75b023-4a28-4a0f-96d5-5f35f2b7a289,2026-03-15,STARBUCKS YORKVILLE,-50.92,Amex Cobalt,dining,False
+3462aff0-46fc-49b6-9970-932692802967,2026-03-15,GO TRANSIT FARE,-5.34,CIBC Checking,transit,False
+5c2a6548-21a0-44c3-b70f-a6ec68b82355,2026-03-15,LYFT TORONTO,-17.3,CIBC Checking,transit,False
+30430aa9-7c8e-49ba-beab-9a537205015b,2026-03-16,PIZZA PIZZA #2211,-24.35,Simplii Visa,dining,False
+6a1ce93b-4821-43a6-9fbf-f4a04eca97f3,2026-03-16,MCDONALD'S BLOOR,-23.36,Simplii Visa,dining,True
+6665ff61-89c9-472a-87ac-e876d16417e9,2026-03-17,HARVEYS YONGE,-57.46,Simplii Visa,dining,False
+f1784056-7c2a-4591-bc6b-d1df687935fe,2026-03-18,TIM HORTONS #4421,-8.64,Simplii Visa,dining,False
+eecdbc2f-3b9f-49f8-ba04-568929f8677c,2026-03-18,GO TRANSIT FARE,-17.65,CIBC Checking,transit,False
+11f96a05-e588-4794-b25c-909084941ad6,2026-03-19,TIM HORTONS #4421,-26.94,Amex Cobalt,dining,False
+511ff2d1-d3b6-4272-91ed-160069d4db92,2026-03-19,BURRITO BOYZ,-15.68,Simplii Visa,dining,False
+015eb362-fa95-463e-aba4-8d4b90320c4f,2026-03-19,APPLE APP STORE,-19.63,Amex Cobalt,entertainment,False
+fc435d17-17c8-4a75-9a45-7579accc21e2,2026-03-20,AMAZON PRIME CA,-9.52,Amex Cobalt,subscriptions,False
+11934891-1107-4895-ad57-28b38aea4883,2026-03-20,FRESHII KING ST,-12.56,Simplii Visa,dining,False
+43c4f469-3851-484f-95a3-3a56addadaa4,2026-03-20,MCDONALD'S BLOOR,-54.72,Amex Cobalt,dining,False
+b062d8b7-6dff-4728-8808-2b05d0a934a0,2026-03-21,LOBLAWS STORE 4821,-141.75,Simplii Visa,groceries,False
+8ba3a140-cd2f-49fc-918d-23510aef9286,2026-03-21,CHIPOTLE TORONTO,-14.16,Amex Cobalt,dining,False
+e3f9e58d-0373-4034-93ff-58a468d836eb,2026-03-22,STARBUCKS YORKVILLE,-27.93,Amex Cobalt,dining,True
+8adc97bf-e1ef-4c1b-a81f-f96edd06d86a,2026-03-22,PIZZA PIZZA #2211,-59.3,Simplii Visa,dining,False
+29515507-dace-41ac-ab8e-65c505ccdc3d,2026-03-23,NO FRILLS 0392,-121.67,Simplii Visa,groceries,False
+35bc82ed-a2a3-46a2-a2ed-864b9a795ef0,2026-03-23,MCDONALD'S BLOOR,-29.77,Simplii Visa,dining,False
+aa94692e-bf17-43b0-bfe4-1923e2228464,2026-03-23,OSMOW'S SHAWARMA,-43.68,Simplii Visa,dining,False
+a4cd1e40-6054-4f1b-82dc-1f919980c3df,2026-03-23,TICKETMASTER CA,-11.16,Amex Cobalt,entertainment,False
+a0bf90db-673b-4d0f-98c4-fe56ae8c060f,2026-03-24,UNIQLO TORONTO,-53.33,Amex Cobalt,shopping,False
+3d1c5613-50eb-4b3c-8296-831de07ec448,2026-03-25,POKE BOX DOWNTOWN,-22.07,Simplii Visa,dining,False
+2cbcf118-2648-45c6-b919-33b6646ab7d2,2026-03-25,BURRITO BOYZ,-27.57,Amex Cobalt,dining,False
+6ace0e7a-58d6-44f9-9aa4-6b1c338e6bdf,2026-03-25,BURRITO BOYZ,-48.63,Simplii Visa,dining,False
+fea376d4-a182-427d-b1bd-d75f0aa80c34,2026-03-27,LOBLAWS STORE 4821,-44.37,CIBC Checking,groceries,False
+964f0dda-895d-44dd-a406-855a901a0bf5,2026-03-27,PIZZA PIZZA #2211,-56.68,Amex Cobalt,dining,False
+04b9bdbc-5dfb-45be-8b48-5358b88e3bc3,2026-03-27,TIM HORTONS #4421,-59.85,Simplii Visa,dining,False
+8fd45bae-0dd6-4e7a-80e8-8b78fc6f7188,2026-03-28,STARBUCKS YORKVILLE,-55.76,Simplii Visa,dining,False
+2de5390d-0a72-412f-9070-8d3a1e6824f3,2026-03-28,UBER TRIP 8X9K,-21.41,CIBC Checking,transit,False
+7434698c-bd8a-4e6d-b705-0e84b97b278f,2026-03-28,UBER TRIP 8X9K,-4.99,CIBC Checking,transit,False
+cbd0eb9d-aa35-4092-9baf-ff66d1af2f77,2026-03-29,BURRITO BOYZ,-25.35,Simplii Visa,dining,False
+d8ababad-1c8a-4ba3-8e64-c50e0071561b,2026-03-29,CHIPOTLE TORONTO,-14.34,Amex Cobalt,dining,False
+4634fead-3bfd-4398-9985-5d4c095bf1dd,2026-03-30,NO FRILLS 0392,-89.06,CIBC Checking,groceries,False
+93eaeb84-acd7-4ade-9328-71243e450bff,2026-03-30,MCDONALD'S BLOOR,-16.2,Amex Cobalt,dining,False
+f1c45d68-5bdc-420f-ac24-8a8a6da2c92b,2026-03-30,MCDONALD'S BLOOR,-41.13,Simplii Visa,dining,False
+9d0bf2a2-b1a2-43ba-b350-f779ddc86340,2026-03-30,PIZZA PIZZA #2211,-13.75,Simplii Visa,dining,False
+255bec15-1abd-4431-ba0d-5ab03adddb86,2026-03-31,CIBC PAYROLL DEPOSIT,929.3,CIBC Checking,income,False
+38ec4012-b954-4167-bd73-f2fc86c23fea,2026-03-31,MCDONALD'S BLOOR,-48.26,Simplii Visa,dining,False
+84c9a322-2e5d-4615-a463-64c83c810f48,2026-04-01,INTERAC E-TFR RENT,-1086.98,CIBC Checking,rent,True
+931579c3-f051-4f13-81a8-20446c4044e1,2026-04-01,GOODLIFE FITNESS,-59.51,Amex Cobalt,subscriptions,False
+9ea50073-e50c-4002-a864-cee36eb9464d,2026-04-01,FARM BOY QUEEN ST,-126.18,CIBC Checking,groceries,False
+6e3d1afe-7d71-4f5e-ab04-660cdcebafae,2026-04-02,IKEA NORTH YORK,-129.9,Capital One Mastercard,shopping,False
+ce3c5fd6-fd62-4caa-b835-b5997b9c08a4,2026-04-03,CHIPOTLE TORONTO,-52.17,Simplii Visa,dining,False
+241d92f6-b2b1-4185-a047-707a3a8fefa4,2026-04-03,GO TRANSIT FARE,-24.56,CIBC Checking,transit,False
+8aa55b8f-ea5b-46a0-a5e7-052a5f002de5,2026-04-04,FRESHCO DANFORTH,-102.71,Simplii Visa,groceries,False
+327ee6e8-57a4-4956-ab37-e4213f42bde7,2026-04-04,POKE BOX DOWNTOWN,-14.5,Amex Cobalt,dining,False
+1b612511-9130-41ec-a3d5-3338d09ca90e,2026-04-05,SPOTIFY CA,-8.28,Amex Cobalt,subscriptions,False
+fe9119a9-f2ac-4d5c-aa1c-6c0b9906ec80,2026-04-06,UBER TRIP 8X9K,-18.62,CIBC Checking,transit,False
+c78714f1-d0c4-4a85-8538-a1758f930359,2026-04-08,STARBUCKS YORKVILLE,-18.49,Simplii Visa,dining,False
+1de334f8-9f8f-42a5-a038-c981328b2b8f,2026-04-08,GO TRANSIT FARE,-7.25,CIBC Checking,transit,False
+ef7bd10a-cd5a-4305-81c6-dcbbf0edce4c,2026-04-08,PHYSIOPLUS CLINIC,-12.96,Simplii Visa,health,False
+cbc01be7-0995-493f-8f68-ad469141d086,2026-04-10,IKEA NORTH YORK,-35.95,Amex Cobalt,shopping,False
+32c68232-6a86-431c-bdf2-e11367bc20b9,2026-04-11,FRESHII KING ST,-10.98,Simplii Visa,dining,False
+8bab7d01-6226-426b-8b21-bf615b833737,2026-04-11,POKE BOX DOWNTOWN,-48.15,Simplii Visa,dining,False
+3f939eee-fb50-4068-a782-ff11eb890c27,2026-04-12,NETFLIX.COM,-18.18,Amex Cobalt,subscriptions,False
+8815742a-280a-4619-a3cb-992da6e2c09a,2026-04-14,FARM BOY QUEEN ST,-58.63,CIBC Checking,groceries,False
+dd20c950-fcec-4204-b0d1-c2a8ff254275,2026-04-14,UBER TRIP 8X9K,-19.16,CIBC Checking,transit,False
+79045401-b15e-4029-935a-50c881a5447a,2026-04-15,CIBC PAYROLL DEPOSIT,2658.32,CIBC Checking,income,False
+58d8fe3b-1742-4f1c-a2e3-18204a0cd483,2026-04-15,INDIGO BOOKS,-552.27,Capital One Mastercard,shopping,False
+ef6bfffa-b421-4c09-9755-4da006810ab4,2026-04-16,METRO #1204,-34.34,CIBC Checking,groceries,False
+012dce04-b54b-4546-8791-69fa0c2a919c,2026-04-16,TICKETMASTER CA,-34.65,Amex Cobalt,entertainment,True
+60b18c34-f1d2-4600-93f6-fa02b46ea91a,2026-04-17,FRESHCO DANFORTH,-30.65,Simplii Visa,groceries,False
+61214cf6-c935-41c0-b644-da3fd1a906a8,2026-04-19,UBER TRIP 8X9K,-8.96,CIBC Checking,transit,False
+254f4557-6b70-4ab0-accc-60afe156a19b,2026-04-20,AMAZON PRIME CA,-9.52,Amex Cobalt,subscriptions,False
+18eaddf1-10eb-4865-b431-d8415474cf01,2026-04-20,STARBUCKS YORKVILLE,-51.57,Amex Cobalt,dining,False
+486073f3-3351-409e-86e1-5c1d8a5506c6,2026-04-20,TICKETMASTER CA,-12.18,Amex Cobalt,entertainment,False
+f9afe315-2424-418a-b2e6-7ddaa1aa0ee7,2026-04-21,STARBUCKS YORKVILLE,-49.65,Simplii Visa,dining,False
+c17a4c45-ef04-4b1f-837a-9cd5a230a92b,2026-04-21,POKE BOX DOWNTOWN,-10.09,Simplii Visa,dining,False
+e1e5dd70-17e4-4cb7-a65f-4c69f6229250,2026-04-22,FARM BOY QUEEN ST,-108.75,CIBC Checking,groceries,False
+795d7456-cec4-4be5-b19e-518b03d8cebc,2026-04-23,SOBEYS EXPRESS,-139.28,Simplii Visa,groceries,False
+10423541-8574-433f-9897-11ab4dd947f0,2026-04-23,UNIQLO TORONTO,-100.05,Capital One Mastercard,shopping,False
+b1a6bc6a-74f1-446d-8ed7-49c2cc775d8d,2026-04-28,METRO #1204,-36.2,Simplii Visa,groceries,False
+7155d54b-aa95-4cd4-a582-662cbdd9b67c,2026-04-28,POKE BOX DOWNTOWN,-56.25,Simplii Visa,dining,False
+87fea878-c514-4441-8664-d4de81d6a9ce,2026-04-28,PIZZA PIZZA #2211,-44.3,Amex Cobalt,dining,False
+02f562bc-107e-4f86-b6e3-bb903bf52901,2026-04-30,CIBC PAYROLL DEPOSIT,929.3,CIBC Checking,income,False
